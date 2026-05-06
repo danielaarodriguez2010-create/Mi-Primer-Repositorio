@@ -17,3 +17,14 @@
     background-color: #3f51b5;
     color: white;
 }
+
+.caja{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.imagen{
+    height: auto;
+    width: 200px;
+}

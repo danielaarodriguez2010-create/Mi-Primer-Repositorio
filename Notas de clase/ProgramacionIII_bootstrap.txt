@@ -1,0 +1,6 @@
+PROGRAMACION III 06/05/26
+BOOTSTRAP
+Instalacion simple
+Al tener enlasado bootstrat se pueden copiar los elementos
+Vuelve a cualquier proyecto responsive
+Como lo hace: Divide cualquier contenedor, segun el ancho de un componente en 12 columnas

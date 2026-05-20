@@ -1,0 +1,53 @@
+header {
+    background-color: darkgreen;
+    display: flex;
+    margin: 0;
+    justify-content: space-around;
+}
+
+h1 {
+    color: white;
+    font-size: 30px;
+}
+
+nav {
+    color: white;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+h2 {
+    color: black
+}
+
+footer {
+    background-color: darkgreen;
+    padding: 20px;
+    justify-content: center;
+}
+
+footer p {
+    color: white;
+    font-size: 18px;
+}
+
+body {
+    background-color: beige;
+}
+
+.textos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.texto {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+}
+
